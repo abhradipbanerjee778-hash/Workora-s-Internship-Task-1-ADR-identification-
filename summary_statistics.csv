@@ -1,0 +1,28 @@
+measure,category,count
+cases_by_suspected_drug,Amoxicillin,3
+cases_by_suspected_drug,Atorvastatin,3
+cases_by_suspected_drug,Metformin,2
+cases_by_suspected_drug,Amlodipine,2
+cases_by_suspected_drug,Ciprofloxacin,2
+cases_by_suspected_drug,Sertraline,2
+cases_by_suspected_drug,Omeprazole,2
+cases_by_suspected_drug,Losartan,2
+cases_by_reported_adr,Rash,3
+cases_by_reported_adr,Myalgia,3
+cases_by_reported_adr,Nausea,2
+cases_by_reported_adr,Peripheral oedema,2
+cases_by_reported_adr,Tendon pain,2
+cases_by_reported_adr,Dizziness,2
+cases_by_reported_adr,Headache,2
+cases_by_reported_adr,Fatigue,2
+cases_by_expectedness,Known,16
+cases_by_expectedness,Unexpected,2
+cases_by_seriousness,Medically important,10
+cases_by_seriousness,Hospitalisation,5
+cases_by_seriousness,Not serious,3
+cases_by_dechallenge,Unknown,8
+cases_by_dechallenge,Negative,6
+cases_by_dechallenge,Positive,4
+cases_by_rechallenge,Positive,7
+cases_by_rechallenge,Negative,7
+cases_by_rechallenge,Not done,4

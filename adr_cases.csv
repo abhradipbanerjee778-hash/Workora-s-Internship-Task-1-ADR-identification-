@@ -1,0 +1,19 @@
+case_id,age_years,sex,suspected_drug,dose_as_reported,route,indication_as_reported,reported_adr,onset_days,concomitant_medicine,expectedness_as_reported,seriousness_as_reported,dechallenge,rechallenge
+SYN-PV-001,30,Male,Amoxicillin,20 mg once daily,Oral,Anxiety,Rash,17,None reported,Known,Medically important,Negative,Positive
+SYN-PV-002,36,Unknown,Atorvastatin,5 mg once daily,Oral,Anxiety,Myalgia,1,None reported,Known,Not serious,Unknown,Negative
+SYN-PV-003,34,Female,Metformin,5 mg once daily,Oral,Anxiety,Nausea,13,Vitamin D,Known,Hospitalisation,Negative,Negative
+SYN-PV-004,61,Male,Amlodipine,500 mg twice daily,Oral,Anxiety,Peripheral oedema,21,None reported,Known,Medically important,Positive,Negative
+SYN-PV-005,33,Unknown,Ciprofloxacin,500 mg twice daily,Oral,Infection,Tendon pain,15,None reported,Known,Medically important,Unknown,Not done
+SYN-PV-006,31,Unknown,Sertraline,20 mg once daily,Oral,Hypertension,Dizziness,3,Paracetamol,Known,Medically important,Positive,Not done
+SYN-PV-007,63,Male,Omeprazole,500 mg twice daily,Oral,Hypertension,Headache,16,Paracetamol,Known,Medically important,Negative,Negative
+SYN-PV-008,36,Male,Losartan,5 mg once daily,Oral,Infection,Fatigue,2,Paracetamol,Unexpected,Not serious,Negative,Not done
+SYN-PV-009,78,Unknown,Amoxicillin,5 mg once daily,Oral,Anxiety,Rash,7,Vitamin D,Known,Medically important,Positive,Not done
+SYN-PV-010,57,Female,Atorvastatin,5 mg once daily,Oral,Infection,Myalgia,21,Paracetamol,Known,Hospitalisation,Unknown,Negative
+SYN-PV-011,23,Unknown,Metformin,5 mg once daily,Oral,Hypertension,Nausea,19,None reported,Known,Medically important,Unknown,Positive
+SYN-PV-012,24,Female,Amlodipine,5 mg once daily,Oral,Hypertension,Peripheral oedema,4,None reported,Known,Medically important,Unknown,Positive
+SYN-PV-013,75,Female,Ciprofloxacin,500 mg twice daily,Oral,Diabetes,Tendon pain,5,Vitamin D,Known,Medically important,Negative,Positive
+SYN-PV-014,75,Female,Sertraline,5 mg once daily,Oral,Diabetes,Dizziness,9,Paracetamol,Known,Hospitalisation,Negative,Negative
+SYN-PV-015,33,Male,Omeprazole,20 mg once daily,Oral,Hypertension,Headache,16,None reported,Known,Hospitalisation,Unknown,Positive
+SYN-PV-016,66,Unknown,Losartan,20 mg once daily,Oral,Diabetes,Fatigue,10,None reported,Unexpected,Not serious,Positive,Negative
+SYN-PV-017,57,Unknown,Amoxicillin,5 mg once daily,Oral,Hypertension,Rash,21,Vitamin D,Known,Medically important,Unknown,Positive
+SYN-PV-018,56,Female,Atorvastatin,500 mg twice daily,Oral,Anxiety,Myalgia,17,None reported,Known,Hospitalisation,Unknown,Positive
